@@ -1,0 +1,8 @@
+{
+  "name": "map_utils",
+  "dependencies":
+  {
+  "geometry_utils"
+  },
+  "hooks": []
+}

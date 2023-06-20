@@ -1,0 +1,6 @@
+tests/data/test_intersections_min_max_ray.txt filter=lfs diff=lfs merge=lfs -text
+tests/data/test_intersections_x_constant_ray.txt filter=lfs diff=lfs merge=lfs -text
+tests/data/test_intersections_y_constant_ray.txt filter=lfs diff=lfs merge=lfs -text
+tests/data/test_intersections_z_constant_ray.txt filter=lfs diff=lfs merge=lfs -text
+tests/data/test_incremental_pointcloud.txt filter=lfs diff=lfs merge=lfs -text
+tests/data/test_incremental_pointcloud_output.txt filter=lfs diff=lfs merge=lfs -text
