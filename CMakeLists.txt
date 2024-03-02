@@ -1,7 +1,6 @@
 cmake_minimum_required(VERSION 2.9)
 project(map_utils)
 
-find_package(OpenCV REQUIRED)
 find_package(Eigen3 REQUIRED)
 
 include_directories(include
