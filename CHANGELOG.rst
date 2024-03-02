@@ -2,6 +2,11 @@
 Changelog for package map_utils
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.10 (2024-03-02)
+------------------
+* Removes unneeded opencv dependency
+* Contributors: Wennie Tabib
+
 0.0.9 (2020-03-27)
 ------------------
 * Only insert a change into the changeset when the value actually changes (prevents tracking unchanged, clamped cells)
